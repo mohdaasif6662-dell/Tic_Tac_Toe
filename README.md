@@ -1,0 +1,2 @@
+# Tic_Tac_Toe
+🎮 Tic-Tac-Toe Game Introduction  The Tic-Tac-Toe Game is a simple two-player Python console application designed for practicing logic-building and fundamental programming concepts. It allows two players to take turns placing their marks (X and O) on a 3×3 grid. The game continues until one player successfully aligns three of their marks in a row, column, or diagonal, or until the board is completely filled (draw).
